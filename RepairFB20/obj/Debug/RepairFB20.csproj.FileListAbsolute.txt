@@ -1,0 +1,30 @@
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\bin\Debug\RepairFB20.exe.config
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\bin\Debug\RepairFB20.exe
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\bin\Debug\RepairFB20.pdb
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\bin\Debug\FirebirdSql.Data.FirebirdClientOLD.dll
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\bin\Debug\FirebirdSql.Data.FirebirdClientOLD.pdb
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.Form1.resources
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.Properties.Resources.resources
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csproj.CopyComplete
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.exe
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.pdb
+C:\Proyectos VB.Net\Repair FB20\RepairFB20.exe.config
+C:\Proyectos VB.Net\Repair FB20\RepairFB20.exe
+C:\Proyectos VB.Net\Repair FB20\RepairFB20.pdb
+C:\Users\Martin\source\repos\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csprojAssemblyReference.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csprojAssemblyReference.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.Form1.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.Properties.Resources.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csproj.GenerateResource.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.exe
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.pdb
+\\MARTIN\c\Proyectos VB.Net\Repair FB20\Output\RepairFB20.exe.config
+\\MARTIN\c\Proyectos VB.Net\Repair FB20\Output\RepairFB20.exe
+\\MARTIN\c\Proyectos VB.Net\Repair FB20\Output\RepairFB20.pdb
+C:\Users\Martin\Source\Repos\LeanLarroza\RepairFB20\RepairFB20\obj\Debug\RepairFB20.csproj.CopyComplete
+\\MARTIN\c\Proyectos VB.Net\RepairFB20\Output\RepairFB20.exe.config
+\\MARTIN\c\Proyectos VB.Net\RepairFB20\Output\RepairFB20.exe
+\\MARTIN\c\Proyectos VB.Net\RepairFB20\Output\RepairFB20.pdb

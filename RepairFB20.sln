@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairFB20", "RepairFB20\RepairFB20.csproj", "{F657EB6B-B106-42EF-BBDA-B2450D9E4410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F657EB6B-B106-42EF-BBDA-B2450D9E4410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F657EB6B-B106-42EF-BBDA-B2450D9E4410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F657EB6B-B106-42EF-BBDA-B2450D9E4410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F657EB6B-B106-42EF-BBDA-B2450D9E4410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6CA29D-D1D0-4ABE-837C-63792F6F21AD}
+	EndGlobalSection
+EndGlobal
